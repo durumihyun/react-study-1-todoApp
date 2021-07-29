@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 const TodoTitleContainer = styled.div`
-  width: 400px;
+  width: 90vw;
   margin: 0 auto;
   margin-top: 3rem;
   border: 2px dashed #f08080;
