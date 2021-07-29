@@ -3,6 +3,9 @@
 투두리스트 할일관리 앱
 [배포 AWS amplify](https://master.d2y22r0hzfdvp2.amplifyapp.com/)
 
+![image](https://user-images.githubusercontent.com/77318441/127482570-d7681967-472d-44e2-a63f-69bb3f1dcd7e.png)
+
+
 ## 사용한 기술
 
 React, styled-component
